@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginBottom="4dp"
+    android:foreground="?android:attr/selectableItemBackground">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+
+        <ImageView
+            android:id="@+id/imagebook"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/audio"/>
+        <!--        <TextView-->
+        <!--            android:id="@+id/sampleItemIndexTV"-->
+        <!--            android:layout_width="60dp"-->
+        <!--            android:layout_height="60dp"-->
+        <!--            android:background="@color/colorPrimaryDark"-->
+        <!--            android:gravity="center"-->
+        <!--            android:textColor="@android:color/white"-->
+        <!--            android:textSize="25sp" />-->
+
+        <TextView
+            android:id="@+id/sampleItemTickIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:fontFamily="@font/fontawesome"
+            android:padding="8dp"
+            android:text="naber"
+            android:textColor="@color/colorAccent"
+            android:textSize="20sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/sampleItemNameTV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_toStartOf="@id/sampleItemTickIcon"
+            android:layout_toLeftOf="@id/sampleItemTickIcon"
+            android:layout_toEndOf="@id/imagebook"
+            android:layout_toRightOf="@id/imagebook"
+            android:textSize="16sp" />
+
+
+<!--        <TextView-->
+<!--            android:id="@+id/sampleItemTickIcon"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_alignParentEnd="true"-->
+<!--            android:layout_alignParentRight="true"-->
+<!--            android:layout_centerVertical="true"-->
+<!--            android:fontFamily="@font/fontawesome"-->
+<!--            android:padding="8dp"-->
+<!--            android:text="@string/icon_tick"-->
+<!--            android:textColor="@color/colorAccent"-->
+<!--            android:textSize="20sp"-->
+<!--            android:visibility="gone" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/sampleItemNameTV"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_centerVertical="true"-->
+<!--            android:layout_marginLeft="16dp"-->
+<!--            android:layout_marginStart="16dp"-->
+<!--            android:layout_toEndOf="@id/sampleItemIndexTV"-->
+<!--            android:layout_toLeftOf="@id/sampleItemTickIcon"-->
+<!--            android:layout_toRightOf="@id/sampleItemIndexTV"-->
+<!--            android:layout_toStartOf="@id/sampleItemTickIcon"-->
+<!--            android:textSize="16sp" />-->
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

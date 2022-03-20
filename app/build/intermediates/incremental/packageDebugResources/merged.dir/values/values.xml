@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">	#9a4d6a</color>
+    <color name="colorPrimary">#56AC8B</color>
+    <color name="colorPrimaryDark">#4D9A7D</color>
+    <color name="colorPrimaryLight">#c9e0d8</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">MunirDerman</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="gesture_recycler_name">Gestures</string>
+    <string name="gesture_sections_recycler_name">Gestures with sections</string>
+    <string name="granted_permissions">İzin verildi</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="icon_rate">iconrate</string>
+    <string name="k">Çıkış</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="multiple_choice_recycler_name">Multiple choice</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Drawer close</string>
+    <string name="navigation_drawer_open">Drawe open</string>
+    <string name="next">Next</string>
+    <string name="pagination_recycler_name">Pagination</string>
+    <string name="pdf_oku">PDF Oku</string>
+    <string name="permanently_denied_permissions">İzin verilmedi</string>
+    <string name="permissions_required">İzin Gerekli</string>
+    <string name="previous">Previous</string>
+    <string name="rationale_permissions">Uygulamayı sorunsuz kullanabilmeniz için izin gerekli.</string>
+    <string name="request_again">Tekrar İste</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="section_recycler_name">Section</string>
+    <string name="single_choice_recycler_name">PDF Oku</string>
+    <string name="sohbet_oku_zle">Sohbet Oku/İzle</string>
+    <string name="sqltext_choice_recycler_name">Sohbet Oku/İzle</string>
+    <style name="Theme.MunirDerman" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.MunirDerman.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.MunirDerman.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.MunirDerman.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

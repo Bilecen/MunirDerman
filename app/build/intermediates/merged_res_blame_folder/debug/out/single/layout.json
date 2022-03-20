@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_pdf_item.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\view_pdf_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sqlview.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\fragment_sqlview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pagination_recycler_layout.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\pagination_recycler_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_sample_item.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\view_sample_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_progress.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\view_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycler_layout.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\recycler_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_pdfview.xml",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\fragment_pdfview.xml"
+    }
+]

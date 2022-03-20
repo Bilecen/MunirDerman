@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_main.jpg.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\main.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_view_sample_item.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\view_sample_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_youtube.png.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_pdficon.png.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\pdficon.png"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_pdfview.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\fragment_pdfview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_pagination_recycler_layout.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\pagination_recycler_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_sqlview.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\fragment_sqlview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_previous.png.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_audio.png.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\audio.png"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_book2.png.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\book2.png"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_view_pdf_item.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\view_pdf_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_recycler_layout.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\recycler_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_view_progress.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\view_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\font_fontawesome.ttf.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\font\\fontawesome.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\menu_drawer_list.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\menu\\drawer_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_logout24.png.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\logout24.png"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_next.png.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\build\\intermediates\\merged_res\\debug\\drawable_prev.png.flat",
+        "source": "C:\\Users\\Root\\AndroidStudioProjects\\MunirDerman\\app\\src\\main\\res\\drawable\\prev.png"
+    }
+]

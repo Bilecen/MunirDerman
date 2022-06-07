@@ -25,7 +25,7 @@ import java.io.*
 
 
 class MainActivity : AppCompatActivity(), PermissionRequest.Listener {
-    //
+    //sadasdasd
 //    data class Sample(val id: Int, val rate: Int, val name: String)
     private lateinit var drawerLayout: DrawerLayout
     private lateinit var actionBarDrawerToggle: ActionBarDrawerToggle
